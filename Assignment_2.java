@@ -2,7 +2,7 @@
  * Assignment 2
  * @author Shekh Sadi    
  * Date: 25-09-2025
- * 1. Create a class called Product
+ * 1. Create a class called Assignment_2
  * 2. Create a main method
  * 3. Declare variables: id, title, price, description, category
  * 4. Assign the following data in main method
