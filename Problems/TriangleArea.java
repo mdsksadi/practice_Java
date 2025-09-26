@@ -1,3 +1,11 @@
+/**
+ * Triangle area calculation
+ * @author Shekh Sadi
+ * @Date 26-09-2025
+ * Here the program will calculate the area of a triangle
+ * The user needs to give the base and height
+ */
+
 public class TriangleArea
 {
 	public static void main(String[] args)
