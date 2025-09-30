@@ -2,13 +2,13 @@
  * Assignment 7: Logical OR (||)
  * @author Shekh Sadi
  * Date: 30-09-2025
- * Create a class called Assignment6
+ * Create a class called Assignment7
  * Print "Do you love Java?"
  * Take user input: y / Y / n / N
  * if user input y / Y, print you are a java lover
  * if user input n / N, print your are not a java lover
  */
-public class Assignment6
+public class Assignment7
 {
     public static void main(String[] args)
     {
